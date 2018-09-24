@@ -2,6 +2,11 @@
 
 > A Vue.js project
 
+## component
+* carousel
+* loadMore
+* lazyLoad
+
 ## Build Setup
 
 ``` bash
