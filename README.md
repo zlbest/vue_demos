@@ -6,6 +6,7 @@
 * carousel
 * loadMore
 * lazyLoad
+* videoPlayer
 
 ## Build Setup
 
