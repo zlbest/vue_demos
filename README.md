@@ -7,6 +7,7 @@
 * loadMore
 * lazyLoad
 * videoPlayer
+* noticeBar
 
 ## Build Setup
 
