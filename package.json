@@ -47,7 +47,7 @@
     "postcss-plugin-px2rem": "^0.7.0",
     "postcss-sprites": "^4.2.1",
     "postcss-url": "^7.2.1",
-    "qs": "^6.5.2",
+    "qs": "^6.5.3",
     "rimraf": "^2.6.0",
     "sass-loader": "^7.1.0",
     "semver": "^5.3.0",
